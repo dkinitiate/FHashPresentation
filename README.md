@@ -1,106 +1,111 @@
-[![Issue Stats](http://issuestats.com/github/fsprojects/FsReveal/badge/issue)](http://issuestats.com/github/fsprojects/FsReveal)
-[![Issue Stats](http://issuestats.com/github/fsprojects/FsReveal/badge/pr)](http://issuestats.com/github/fsprojects/FsReveal)
+### What is FHash?
 
-# FsReveal [![NuGet Status](http://img.shields.io/nuget/v/FsReveal.svg?style=flat)](https://www.nuget.org/packages/FsReveal/)
+- Next Generation
+- Multi-paradigm
+- Cross-platform
+- Web scale
+- Buzzword
+- Secure-by-default  
+- Big data ready
 
-FsReveal allows you to write beautiful slides in [Markdown](http://daringfireball.net/projects/markdown/syntax)
-and brings F# to the [reveal.js][revealjs] web presentation framework.
+***
+### Does it run on Mono?
 
-## Features
+** Yes, it works on Mono, Duo, Trio & Quattro!**
 
-- Write your slides in [Markdown](http://daringfireball.net/projects/markdown/syntax) or .fsx files
-- Syntax highlighting for most programming languages including C#, F# and LaTeX
-- Speaker notes; Shows the current slide, next slide, elapsed time and current time
-- Built in themes
-- Horizontal and vertical slides
-- Built in slide transitions using CSS 3D transforms
-- Slide overview
-- Works on mobile browsers. Swipe your way through the presentation.
+** And supports native hosting on Amazon, Nile and Yangtze**
 
-## Getting Started
+***
 
-Clone or [download](https://github.com/fsprojects/FsReveal/archive/master.zip) the [FsReveal repository](https://github.com/fsprojects/FsReveal). Check out GitHub's links to the right if you need some help.
+### FHash Foundation
 
-### Prerequisites
+#### Tomas Petricek
 
-If you are using Linux or OS X, [you need to install Mono](http://www.mono-project.com/download/ "Install Mono").
+[@tomaspetricek](https://twitter.com/tomaspetricek)
 
-Windows users don't need to install anything.
+[![Tomas Petricek](https://pbs.twimg.com/profile_images/458773156979683328/K1vTjE9z_400x400.jpeg)](https://twitter.com/tomaspetricek)
 
-### Create
+**Master of making presentations about his own slides**
 
-Open `slides/input.md` in your favourite text editor.
+--- 
 
-This is the source for your entire presentation. Inside you will find an example presentation that demonstrates how to use FsReveal.
+#### Evelina Gabasova
 
-#### Images
+[@evelgab](https://twitter.com/evelgab)
 
-Put images into the slides/images folder.
+[![Evelina Gabasova](https://pbs.twimg.com/profile_images/442438280236134400/51LqGyQ__400x400.jpeg)](https://twitter.com/evelgab)
 
-### Build
+**Laughing as a service (LaaS)**
 
-Open a console/terminal in the FsReveal folder.
+--- 
 
-If you're using Windows run 
-    
-    build.cmd
-    
-If you're using a Mac run
+#### Andrea Magnorsky
 
-    ./build.sh
-    
-This will download all of the packages that FsReveal needs to create your slides.
+[@silverSpoon](https://twitter.com/silverSpoon)
 
-Your slides are then generated and saved to the `output` folder.
+[![Andrea Magnorsky](https://pbs.twimg.com/profile_images/526434811435429889/Oi2k4dgU_400x400.jpeg)](https://twitter.com/silverSpoon)
 
-A web server will start automatically and your presentation will be opened in your browser.
+**Czeœæ Chrz¹szcz**
 
-FsReveal will detect changes to your slides and generate them again for you; you just need to refresh your browser.
+--- 
 
-> We're working on auto refreshing the browser for you.
+#### Tomasz Jasku³a
 
-### Use
+[@tjaskula](https://twitter.com/tjaskula)
 
-- Use the arrow keys to navigate left, right, up and down
-- Press `Esc` to see an overview
-- Press `f` to view in fullscreen
-- Press `s` to see speaker notes.
+[![Tomasz Jasku³a](https://pbs.twimg.com/profile_images/516329315600838657/5gh_yoqC_400x400.jpeg)](https://twitter.com/tjaskula)
 
-## Examples
+**"Microsoft Research France were closed because they couldn't find anything"**
 
-Check out what others have created. Submit a PR if you have something to add to the list.
+--- 
 
-- [Markdown example][md-example] by [@kimsk][kimsk-twitter] [(source)][md-example-source]
-- [.fsx example][fsx-example] by [@kimsk][kimsk-twitter] [(source)][fsx-example-source]
-- [RPG F# Workshop][rpg-fsharp-workshop] by [@troykershaw][troykershaw-twitter] [(source)][rpg-fsharp-workshop-source]
-- [F# on the Web - 0 to production in 12 weeks][fsharp-on-the-web] by [@panesofglass][panesofglass-twitter] [(source)][fsharp-on-the-web-source]
+#### Micha³ Œliwoñ
 
+[@mihcall](https://twitter.com/mihcall)
 
-[revealjs]: https://github.com/hakimel/reveal.js/ "reveal.js | HTML presentations made easy"
+[![Micha³ Œliwoñ](https://pbs.twimg.com/profile_images/519069295091789824/pPyTFt65_400x400.jpeg)](https://twitter.com/mihcall)
 
-[kimsk-twitter]: https://twitter.com/kimsk "@kimsk on Twitter"
-[troykershaw-twitter]: https://twitter.com/troykershaw "@troykershaw on Twitter"
-[panesofglass-twitter]: https://twitter.com/panesofglass "@panesofglass on Twitter"
+**Hugging as a service (HaaS)**
 
-[fsx-example]: http://fsreveal.azurewebsites.net/ ".fsx example"
-[fsx-example-source]: https://github.com/fsprojects/FsReveal/blob/develop/src/presentations/FsReveal.fsx ".fsx example source"
+--- 
 
-[md-example]: http://fsreveal.azurewebsites.net/index-md.html "Markdown example"
-[md-example-source]: https://raw.githubusercontent.com/fsprojects/FsReveal/develop/src/presentations/FsReveal.md "Markdown example source"
+#### Krzysztof Cieœlak
 
-[rpg-fsharp-workshop]: http://troykershaw.github.io/RpgFsharpWorkshop "RPG F# Workshop" 
-[rpg-fsharp-workshop-source]: https://github.com/troykershaw/RpgFsharpWorkshop "RPG F# Workshop source"
+[@k_cieslak](https://twitter.com/k_cieslak)
 
-[fsharp-on-the-web]: http://panesofglass.github.io/TodoBackendFSharp "F# on the Web - 0 to production in 12 weeks"
-[fsharp-on-the-web-source]: https://github.com/panesofglass/TodoBackendFSharp "F# on the Web source"
+[![Krzysztof Cieœlak](https://pbs.twimg.com/profile_images/527479858280947712/5yoVwk4B_400x400.png)](https://twitter.com/k_cieslak)
 
-### Maintainer(s)
+**Just a FHash developer**
 
-- [@kimsk](https://github.com/kimsk)
-- [@forki](https://github.com/forki)
-- [@troykershaw](https://github.com/troykershaw)
-- [@agross](https://github.com/agross)
-- [@shishkin](https://github.com/shishkin)
-- [@ilkerde](https://github.com/ilkerde)
+***
 
-The default maintainer account for projects under "fsprojects" is [@fsgit](https://github.com/fsgit) - F# Community Project Incubation Space (repo management)
+#### Code of conduct
+
+---
+
+** - **
+
+---
+
+**Previous page page was left blank intentionally **
+
+** Yes, there is no code of conduct**
+
+---
+
+**Unless You think that inappropriate jokes about Java and Coq is good point for CoC**
+
+***
+
+### But hey, shouldn't it be FSharp ?
+
+** FSharp, FHash - yeah, whatever ** 
+
+***
+
+### Interested in joining?
+
+1. Be "very serious" developer.
+2. Code of conduct
+3. Spread love of FHash
+4. Ping any of us on the twitter
