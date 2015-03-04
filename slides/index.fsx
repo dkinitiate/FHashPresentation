@@ -9,6 +9,8 @@
 
 ### FHash Introduction
 
+![FHash Foundation](images/logo.png)
+
 ***
 
 ### What is FHash?
@@ -122,5 +124,18 @@
 2. Code of conduct
 3. Spread love of FHash
 4. Ping any of us on the twitter
+
+***
+
+### Postscriptum
+
+** Special thanks to all LambdaDays participants **
+
+** Especially to: **
+
+- People attending Evelina's talk and asking very thought provoking questions
+- Anonymous announcer creating FHash term
+- LambdaDays staff providing enough Java developers blood to drink during breaks 
+- All people discussing possibility of running FHash on Mono, and Coq programming language
 
 *)
