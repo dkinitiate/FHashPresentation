@@ -68,7 +68,7 @@
 
 [![Tomasz Jaskuła](https://pbs.twimg.com/profile_images/516329315600838657/5gh_yoqC_400x400.jpeg)](https://twitter.com/tjaskula)
 
-**"Microsoft Research France were closed because they couldn't find anything"**
+**"Microsoft Research France was closed because they couldn't find anything"**
 
 --- 
 
@@ -88,7 +88,7 @@
 
 [![Krzysztof Cieślak](https://pbs.twimg.com/profile_images/527479858280947712/5yoVwk4B_400x400.png)](https://twitter.com/k_cieslak)
 
-**Just a FHash developer**
+**Just an FHash developer**
 
 ***
 
