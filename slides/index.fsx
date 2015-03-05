@@ -13,6 +13,14 @@
 
 ***
 
+### Does it run on Mono?
+
+**Yes, it works on Mono, Duo, Trio & Quattro! **
+
+**And supports native hosting on Amazon, Nile and Yangtze**
+
+***
+
 ### What is FHash?
 
 - Next Generation
@@ -22,13 +30,6 @@
 - Buzzword
 - Secure-by-default  
 - Big data ready
-
-***
-### Does it run on Mono?
-
-**Yes, it works on Mono, Duo, Trio & Quattro! **
-
-**And supports native hosting on Amazon, Nile and Yangtze**
 
 ***
 
@@ -137,5 +138,11 @@
 - Anonymous announcer creating FHash term
 - LambdaDays staff providing enough Java developers blood to drink during breaks 
 - All people discussing possibility of running FHash on Mono, and Coq programming language
+
+***
+
+### Postscriptum 2
+
+> The FHash software foundation is in *no* way affiliated to the F# Software Foundation and any statements made here are not official statements of the F# Software Foundation or any of its members (especially not Tomas). Any similarities are purely incidental, aside from the fact that F# also works on Mono.
 
 *)
