@@ -93,6 +93,18 @@
 
 **Just an FHash developer**
 
+--- 
+
+#### Daniel Kirillov
+
+[@tldr\__lol](https://twitter.com/tldr__lol)
+
+[![Daniel Kirillov](https://pbs.twimg.com/profile_images/598193011747500033/7AgNREkO.jpg)](https://twitter.com/tldr__lol)
+
+```
+this.Suit = Black |> not
+```
+
 ***
 
 #### Code of conduct
